@@ -4,7 +4,7 @@
 import os
 import csv
 
-# variablew / lists
+# variable / lists
 total_votes = 0
 khan_votes = 0
 correy_votes = 0

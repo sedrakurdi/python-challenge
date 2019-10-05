@@ -1,4 +1,4 @@
-#very similar to pybank exercize
+#very similar to pybank exercise
 
 # modules
 import os
